@@ -11,8 +11,8 @@
    在过去40年90%的时间里，C语言独领风骚，仅偶尔被其他语言超越，可见其魅力。C语言作为一种高级语言，其实并不高级，但正是这种“低级”给我们更多思考的机会。期望通过本课程的学习，你不只是简单地能够掌握一种语言的语法，还能理解隐含在语法背后的思想，并初步具备灵活使用这些思想进行编写程序解决实际问题的能力。如果你掌握了这些，你会发现，迈向成功的最后一步不过是选择一种合适的编程工具而已。 
 
    你想从“菜鸟”升级为“程序猿”吗？那就加入“稀饭”的行列，和我们一起踏上爱上C语言之旅吧。
-## Course Content
-This repository contains the course content for the following weeks:
+## 课程内容
+节选了一部分，主要是这些部分有OJ平台可以检测代码。
 - [第3周——从键盘中来，到键盘中去，开始输入和输出啦](https://www.icourse163.org/learn/HIT-69005?tid=1469999453#/learn/testlist)
 - [第4周——无处不在的抉择](https://www.icourse163.org/learn/HIT-69005?tid=1469999453#/learn/testlist)
 - [第5周——周而复始的循环之道](https://www.icourse163.org/learn/HIT-69005?tid=1469999453#/learn/testlist)
@@ -52,11 +52,7 @@ The course is divided into multiple weeks, each focusing on specific topics. Her
 
 ## Getting Started
 
-To get started with the course, follow these steps:
-1. Clone this repository to your local machine.
-2. Install a C compiler (e.g., GCC) on your system.
-3. Navigate to the specific week's directory to access the corresponding course materials.
-4. Read the lecture notes, review the code examples, and complete the exercises.
+Feel free to study the course by MOOC.
 
 ## Additional Resources
 
